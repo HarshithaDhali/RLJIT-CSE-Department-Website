@@ -3,4 +3,4 @@
 *.mysql linguist-detectable=true
 *.php linguist-detectable=true
 *.scss linguist-detectable=false
-*.juypter notebook linguist-detectable=false
+*.JuypterNotebook linguist-detectable=false
