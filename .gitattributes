@@ -1,6 +1,6 @@
 *.html linguist-detectable=true
 *.css linguist-detectable=true
-*.mysql linguist-detectable=true
+*.MYSQL linguist-detectable=true
 *.php linguist-detectable=true
 *.scss linguist-detectable=false
 *.JuypterNotebook linguist-detectable=false
