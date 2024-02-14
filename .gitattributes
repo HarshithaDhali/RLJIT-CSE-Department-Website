@@ -2,3 +2,5 @@
 *.css linguist-detectable=true
 *.mysql linguist-detectable=true
 *.php linguist-detectable=true
+*.scss linguist-detectable=false
+*.juypter notebook linguist-detectable=false
